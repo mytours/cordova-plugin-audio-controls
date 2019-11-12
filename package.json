@@ -5,7 +5,7 @@
     "id": "cordova-plugin-audio-controls",
     "platforms": [
       "android",
-      "ios",
+      "ios"
     ]
   },
   "description": "A plugin to handle audio controls when playing in the background"
